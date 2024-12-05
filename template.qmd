@@ -1,0 +1,228 @@
+---
+title: Syllabus
+subtitle: STAT 1234
+format:
+  osu-asc-syllabus-docx: default
+  osu-asc-syllabus-html: default
+---
+
+<!-- See https://asccas.osu.edu/submission/development/submission-materials/syllabus-elements for syllabus elements required by ASC. -->
+
+Title of Course
+
+Spring 2025
+
+3 Credit Hours
+
+Online
+
+## Course overview
+
+### Instructor
+
+- Name
+- Email Address
+- Phone Number
+- Course Zoom Link
+- Office Hours
+  - Zoom Link
+
+__Note:__ My preferred method of contact is [indicate this information here].
+
+### Course Description
+
+[Insert detailed course description here. Readers of this description should have a clear picture of what the basic course design will is.]
+
+### Course expected learning outcomes
+
+By the end of this course, students should successfully be able to:
+
+1. [Insert course outcome #1]
+2. [Insert course outcome #2]
+3. [Insert course outcome #3]
+4. [Etc., as appropriate]
+
+### General education goals and expected learning outcomes
+
+As part of the [insert appropriate GE category name] category of the General Education curriculum, this course is designed to prepare students to be able to do the following:
+
+1. Goal #1
+    a. GE learning outcome #1
+    b. GE learning outcome #2
+    c. GE learning outcome #3
+    d. Etc., as appropriate
+2. Goal #2
+    a. Etc., as appropriate
+
+[Add a statement here connecting the GE goals and outcomes to your course description, goals, and outcomes, and discussing how this course fulfills GE goals and outcomes. Delete this section if not applicable to your course.]
+
+## How this online course works
+
+### Mode of delivery
+
+This course is [insert percentage, i.e. “100%”] online. There are [insert value, i.e. “no”] required sessions when you must be logged in to Carmen at a scheduled time. [Add detail as necessary.]
+
+### Pace of online activities
+[Insert detailed information about how you intend for students to experience the course, as well as information about how they should plan their weekly schedules in order to be successful in your course.]
+
+### Credit hours and work expectations
+This is a 1-credit-hour course. According to Ohio State policy (go.osu.edu/credithours), students should expect around 9 hours of engagement with the class each week to receive a grade of (C) average. Actual hours spent will vary by student learning habits and the assignments each week. 
+
+### Participation requirements
+Because this is an online course, your attendance is based on your online activity and participation. The following is a summary of students’ expected participation:
+
+#### Participating in online activities
+[Insert your policy for participation, including how you will be investigating this activity and what means you’ll be using to determine student interaction.]
+
+#### Office hours and live sessions (optional)
+All live, scheduled events for the course, including my office hours, are optional. 
+
+### Course communication guidelines
+[The following section should list expectations for how your students can expect to communicate with you and their peers, both in formal and informal communications. Lay out your expectations for respect, thoughtfulness, and style preferences in detail. The following suggestive sub-sections are included for your consideration, but should be altered, enhanced, or omitted as necessary.] 
+
+#### Writing style 
+[Insert your policy for writing style with respect to grammar usage and expected syntactic considerations. Consider adding an brief example of how you expect communication to appear.]
+
+#### Tone and civility 
+[Insert your expectations for peer-to-peer and/or student-to-instructor communication. Consider including information about how students should expect to navigate disagreement or disruption, and how you might respond.] 
+
+#### Citing your sources 
+[Insert your policy for citation and reference of primary, secondary, etc. source material in course assessments. Include your expectations for what students will provide in their references, including but not limited to title, page numbers and/or link, author information, and publisher.]
+
+#### Protecting and saving your work 
+[The section is meant to encourage students to compose their work in documents or word processing tools outside of Carmen where they can ensure their work will be saved. This gives them a backup in case they encounter any issues with browser time-outs, failed submission attempts, or lack of internet connectivity.] 
+
+## Course materials and technologies
+
+### Textbooks
+
+#### Required
+1. Text #1
+2. Text #2
+3. Etc., as appropriate
+
+#### Recommended (optional)
+1. Text #1
+2. Etc., as appropriate
+
+#### Other fees or requirements
+[List all other fees, out-of-class attendance requirements, etc., including proctoring. Delete if not applicable.]
+1. Requirement 
+2. Fee
+3. Etc., as appropriate
+
+### Course technology
+
+#### Technology support
+For help with your password, university email, Carmen, or any other technology issues, questions, or requests, contact the Ohio State IT Service Desk. Standard support hours are available [at it.osu.edu/help](https://it.osu.edu/help), and support for urgent issues is available 24/7.
+
+- Self-Service and Chat support: <it.osu.edu/help>
+- Phone: 614-688-4357(HELP)
+- Email: [8help@osu.edu](mailto:8help@osu.edu)
+- TDD: 614-688-8743
+
+#### Technology skills needed for this course
+- Basic computer and web-browsing skills
+- Navigating Carmen (<go.osu.edu/canvasstudent>)
+- CarmenZoom virtual meetings (<go.osu.edu/zoom-meetings>)
+
+#### Required Equipment
+- Computer: current Mac (MacOs) or PC (Windows 10) with high-speed internet connection
+- Webcam: built-in or external webcam, fully installed and tested
+- Microphone: built-in laptop or tablet mic or external microphone
+- Other: a mobile device (smartphone or tablet) to use for BuckeyePass authentication
+
+#### Required software
+- Microsoft Office 365: All Ohio State students are now eligible for free Microsoft Office 365. Full instructions for downloading and installation can be found at go.osu.edu/office365help.
+
+#### Carmen Access
+You will need to use BuckeyePass (<buckeyepass.osu.edu>) multi-factor authentication to access your courses in Carmen. To ensure that you are able to connect to Carmen at all times, it is recommended that you take the following steps:
+
+- Register multiple devices in case something happens to your primary device. Visit the BuckeyePass
+- Request passcodes to keep as a backup authentication option. When you see the Duo login screen on your computer, click Enter a Passcode and then click the Text me new codes button that appears. This will text you ten passcodes good for 365 days that can each be used once.
+- Download the Duo Mobile application to all of your registered devices for the ability to generate one-time codes in the event that you lose cell, data, or Wi-Fi service
+
+If none of these options will meet the needs of your situation, you can contact the IT Service Desk at 614-688-4357(HELP) and IT support staff will work out a solution with you.
+
+## Grading and instructor response
+
+### How your grade is calculated
+
+| Assignment Category | Points and/or Percentage |
+| :------------------ | -----------------------: |
+| Assignment #1       |                      20% |
+| Assignment #2       |                      30% |
+| Assignment #3       |                      15% |
+| Etc., as necessary  |                      XX% |
+| __Total__           |                 __100%__ |
+\
+
+### Description of major course assignments
+
+#### Assignment #1 name and/or category
+- Description
+  [Insert a detailed description of the assignment here. This should be detailed enough to give a clear picture of your expectations for what students produce, and connections to course goals and objectives where appropriate.]
+- Academic integrity and collaboration guidelines
+  [Insert a detailed description regarding how students are meant to complete the assignment and what your part of the academic integrity policy will be monitored.]
+
+#### Assignment #2 name and/or category
+- Description
+  [Insert a detailed description of the assignment here. This should be detailed enough to give a clear picture of your expectations for what students produce, and connections to course goals and objectives where appropriate.]
+- Academic integrity and collaboration guidelines
+  [Insert a detailed description regarding how students are meant to complete the assignment and what your part of the academic integrity policy will be monitored.]
+
+#### Etc., as appropriate
+
+### Late assignments
+[Insert your policy for late or missing assignments.]
+
+### Grading Scale
+[This is a sample grading scale. Adjust as necessary.]
+
+- 93-100: A 
+- 90-92: A- 
+- 87-89: B+ 
+- 83-86: B 
+- 80-82: B- 
+- 77-79: C+ 
+- 73-76: C  
+- 70-72: C- 
+- 67-69: D+ 
+- 60-66: D 
+- Under 60: E 
+
+### Instructor feedback and response time
+[Insert your policy for grading and providing formative feedback on key assignments, as well as what students can expect should they reach out using your preferred method of communication, as listed above.]
+
+#### Grading and feedback
+[Insert your policy for how much time it will take you to grade assignments. This can be broken up by assignment category or individual assignments as listed above.]
+
+#### Preferred contact method
+[Insert a time frame within which students can expect to receive a response from you if they reach out with questions or concerns.]
+
+## Academic policies
+
+{{< include _extensions/osu-asc-syllabus/asc-dl-academic-policies.qmd >}}
+
+## Course Schedule
+
+Refer to our Carmen course page for up-to-date assignment due dates.
+
+| Week   | Date | Topics/Readings/Assignments | Assessments Due |
+| :----- | :--- | --------------------------- | --------------- |
+| 1      |      |                             |                 |
+| 2      |      |                             |                 |
+| 3      |      |                             |                 |
+| 4      |      |                             |                 |
+| 5      |      |                             |                 |
+| 6      |      |                             |                 |
+| 7      |      |                             |                 |
+| 8      |      |                             |                 |
+| 9      |      |                             |                 |
+| 10     |      |                             |                 |
+| 11     |      |                             |                 |
+| 12     |      |                             |                 |
+| 13     |      |                             |                 |
+| 14     |      |                             |                 |
+| 15     |      |                             |                 |
+| Finals |      |                             |                 |
