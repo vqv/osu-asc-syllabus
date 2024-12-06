@@ -30,7 +30,7 @@ The extension provides two custom formats: `osu-asc-syllabus-docx` and
 closely matches the template, while the latter is used to create an HTML that 
 can be uploaded to CarmenCanvas. I recommend using Quarto's 
 [conditional content](https://quarto.org/docs/authoring/conditional.html) 
-feature, particularly `.content-visible unless-format="docx"`, to exclude 
+feature, particularly `.content-visible unless-format="html"`, to exclude 
  sections that you may not want to include in the HTML that you upload 
  to CarmenCanvas.
 
