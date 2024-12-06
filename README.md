@@ -10,7 +10,7 @@ can also be used for creating syllabi for in-person or hybrid courses.
 ## Installing
 
 ```bash
-quarto use template vqv/osu-syllabus
+quarto use template vqv/osu-asc-syllabus
 ```
 
 This will install the extension and create an example qmd file that you can 
