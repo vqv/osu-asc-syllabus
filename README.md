@@ -25,8 +25,8 @@ both required and optional, are included in the example file. The
 in the `asc-dl-academic-policies.qmd` file provided by the extension. 
 Be careful with relative paths if you modify the example. 
 
-The extension provides two custom formats: `osu-syllabus-docx` and 
-`osu-syllabus-html`. The former is used to create a Word document that 
+The extension provides two custom formats: `osu-asc-syllabus-docx` and 
+`osu-asc-syllabus-html`. The former is used to create a Word document that 
 closely matches the template, while the latter is used to create an HTML that 
 can be uploaded to CarmenCanvas. I recommend using Quarto's 
 [conditional content](https://quarto.org/docs/authoring/conditional.html) 
