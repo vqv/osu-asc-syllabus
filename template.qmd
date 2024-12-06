@@ -202,7 +202,7 @@ If none of these options will meet the needs of your situation, you can contact 
 
 ## Academic policies
 
-{{< include _extensions/osu-asc-syllabus/asc-dl-academic-policies.qmd >}}
+{{< include _extensions/vqv/osu-asc-syllabus/asc-dl-academic-policies.qmd >}}
 
 ## Course Schedule
 
