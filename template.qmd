@@ -202,17 +202,17 @@ If none of these options will meet the needs of your situation, you can contact 
 
 [This is a sample grading scale. Adjust as necessary.]
 
-- 93-100: A 
-- 90-92: A- 
-- 87-89: B+ 
-- 83-86: B 
-- 80-82: B- 
-- 77-79: C+ 
-- 73-76: C  
-- 70-72: C- 
-- 67-69: D+ 
-- 60-66: D 
-- Under 60: E 
+- 93-100: A
+- 90-92: A-
+- 87-89: B+
+- 83-86: B
+- 80-82: B-
+- 77-79: C+
+- 73-76: C
+- 70-72: C-
+- 67-69: D+
+- 60-66: D
+- Under 60: E
 
 ### Instructor feedback and response time
 
