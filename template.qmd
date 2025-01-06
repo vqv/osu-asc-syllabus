@@ -264,3 +264,5 @@ Refer to our Carmen course page for up-to-date assignment due dates.
 | 14     |      |                             |                 |
 | 15     |      |                             |                 |
 | Finals |      |                             |                 |
+
+: {tbl-colwidths="[12, 12, 76]"}
