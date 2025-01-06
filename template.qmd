@@ -16,6 +16,18 @@ Spring 2025
 
 Online
 
+<!-- OAA recommends including a continuity plan for weather or other short-term closing in the syllabus. They have provided the following sample statements:
+
+Should in-person classes be canceled, we will meet virtually via CarmenZoom during our regularly scheduled time. I will share any updates via [CarmenCanvas, email or other mode of communication].
+
+OR
+
+Should in-person classes be canceled, I will notify you as to which alternative methods of teaching will be offered to ensure continuity of instruction for this class. Communication will be via [CarmenCanvas, email or other mode of communication].
+
+FOR FACULTY TEACHING ONLINE:
+Unless otherwise announced by the university, online or distance-learning classes will occur as scheduled. 
+-->
+
 ## Course overview
 
 ### Instructor
@@ -131,7 +143,7 @@ All live, scheduled events for the course, including my office hours, are option
 
 For help with your password, university email, Carmen, or any other technology issues, questions, or requests, contact the Ohio State IT Service Desk. Standard support hours are available [at it.osu.edu/help](https://it.osu.edu/help), and support for urgent issues is available 24/7.
 
-- Self-Service and Chat support: <it.osu.edu/help>
+- Self-Service and Chat support: [it.osu.edu/help](it.osu.edu/help)
 - Phone: 614-688-4357(HELP)
 - Email: [8help@osu.edu](mailto:8help@osu.edu)
 - TDD: 614-688-8743
@@ -139,8 +151,8 @@ For help with your password, university email, Carmen, or any other technology i
 #### Technology skills needed for this course
 
 - Basic computer and web-browsing skills
-- Navigating Carmen (<go.osu.edu/canvasstudent>)
-- CarmenZoom virtual meetings (<go.osu.edu/zoom-meetings>)
+- Navigating Carmen ([go.osu.edu/canvasstudent](go.osu.edu/canvasstudent))
+- CarmenZoom virtual meetings ([go.osu.edu/zoom-meetings](go.osu.edu/zoom-meetings))
 
 #### Required Equipment
 
@@ -155,7 +167,7 @@ For help with your password, university email, Carmen, or any other technology i
 
 #### Carmen Access
 
-You will need to use BuckeyePass (<buckeyepass.osu.edu>) multi-factor authentication to access your courses in Carmen. To ensure that you are able to connect to Carmen at all times, it is recommended that you take the following steps:
+You will need to use [BuckeyePass](buckeyepass.osu.edu) multi-factor authentication to access your courses in Carmen. To ensure that you are able to connect to Carmen at all times, it is recommended that you take the following steps:
 
 - Register multiple devices in case something happens to your primary device. Visit the BuckeyePass
 - Request passcodes to keep as a backup authentication option. When you see the Duo login screen on your computer, click Enter a Passcode and then click the Text me new codes button that appears. This will text you ten passcodes good for 365 days that can each be used once.
