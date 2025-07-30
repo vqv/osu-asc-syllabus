@@ -1,6 +1,10 @@
 ---
 title: Syllabus
 subtitle: STAT 1234
+statements:
+  copyright: true
+  mental_health: false
+  civil_rights: false
 format:
   osu-asc-syllabus-docx: default
   osu-asc-syllabus-html: default
@@ -10,7 +14,7 @@ format:
 
 Title of Course
 
-Spring 2025
+Autumn 2026
 
 3 Credit Hours
 
