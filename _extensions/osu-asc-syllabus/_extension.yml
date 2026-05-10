@@ -9,3 +9,5 @@ contributes:
     html:
       toc: true
       format-links: false
+    gfm:
+      wrap: none
